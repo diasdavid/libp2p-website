@@ -21,6 +21,26 @@
           "url": "https://github.com/libp2p/go-libp2p-nat"
         }
       ]
+    },
+    {
+      "id": "libp2p-circuit",
+      "langs": [
+        {
+          "name": "Browser JS",
+          "status": "Unstable",
+          "url": "https://github.com/libp2p/js-libp2p-circuit"
+        },
+        {
+          "name": "Node.js",
+          "status": "Unstable",
+          "url": "https://github.com/libp2p/js-libp2p-circuit"
+        },
+        {
+          "name": "Go",
+          "status": "Unstable",
+          "url": "https://github.com/libp2p/go-libp2p-circuit"
+        }
+      ]
     }
   ]
 }
