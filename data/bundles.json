@@ -4,7 +4,7 @@
     "name": "Browser JS",
     "status": "live",
     "image": "/img/logo_1.png",
-    "github": "https://github.com/ipfs/js-libp2p-ipfs-browser",
+    "github": "https://github.com/ipfs/js-ipfs",
     "categories": [
       {
         "id": "transport",
@@ -88,7 +88,7 @@
     "name": "Node JS",
     "status": "live",
     "image": "/img/logo_2.png",
-    "github": "https://github.com/ipfs/js-libp2p-ipfs-nodejs",
+    "github": "https://github.com/ipfs/js-ipfs",
     "categories": [
       {
         "id": "transport",
