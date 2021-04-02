@@ -392,6 +392,65 @@
     ]
   },
   {
+    "id": "python",
+    "name": "Python",
+    "status": "dev",
+    "image": "/img/logo_6.png",
+    "github": "https://github.com/libp2p/py-libp2p",
+    "categories": [
+      {
+        "id": "transport",
+        "modules": [
+          {
+            "id": "libp2p-tcp-transport",
+            "status": "Unstable",
+            "url": "https://github.com/libp2p/py-libp2p/tree/master/libp2p/transport"
+          }
+        ]
+      },
+      {
+        "id": "stream-muxer",
+        "modules": [
+          {
+            "id": "libp2p-mplex",
+            "status": "Unstable",
+            "url": "https://github.com/libp2p/py-libp2p/tree/master/libp2p/stream_muxer/mplex"
+          }
+        ]
+      },
+      {
+        "id": "peers",
+        "modules": [
+          {
+            "id": "libp2p-peerstore",
+            "status": "Unstable",
+            "url": "https://github.com/libp2p/py-libp2p/blob/master/libp2p/peer/peerstore.py"
+          }
+        ]
+      },
+      {
+        "id": "protocols",
+        "modules": [
+          {
+            "id": "libp2p-multistream-select",
+            "status": "Unstable",
+            "url": "https://github.com/libp2p/py-libp2p/tree/master/libp2p/protocol_muxer"
+          },
+        ]
+      },
+      {
+        "id": "Utilities",
+        "modules": [
+          {
+            "id": "multiaddr",
+            "status": "Usable",
+            "url": "https://github.com/multiformats/py-multiaddr"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Haskell",
     "status": "coming-soon",
     "image": "/img/logo_4.png",
@@ -402,13 +461,6 @@
     "name": "Java",
     "status": "coming-soon",
     "image": "/img/logo_java.png",
-    "github": "",
-    "categories": []
-  },
-  {
-    "name": "Python",
-    "status": "coming-soon",
-    "image": "/img/logo_6.png",
     "github": "",
     "categories": []
   }
