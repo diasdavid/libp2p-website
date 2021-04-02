@@ -4,6 +4,7 @@
 [![](https://img.shields.io/badge/project-libp2p-blue.svg?style=flat-square)](http://github.com/libp2p/libp2p)
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 [![CircleCI branch](https://img.shields.io/circleci/project/github/libp2p/website/master.svg)](https://circleci.com/gh/libp2p/website/tree/master)
+[![Discourse posts](https://img.shields.io/discourse/https/discuss.libp2p.io/posts.svg)](https://discuss.libp2p.io)
 
 > Official website for libp2p http://libp2p.io
 
